@@ -6,7 +6,7 @@
 
 SR No   | Project
 --- | ---
-1 | [Hello World]()
+1 | [Hello World](https://github.com/keoreo/python-mini-projects/tree/main/project/hello%20world)
 2 | []()
 3 | []()
 4 | []()
